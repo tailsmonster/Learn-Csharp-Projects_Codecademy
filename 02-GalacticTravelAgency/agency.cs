@@ -2,7 +2,7 @@ using System;
 
 public class GalacticTravelAgency { 
   public static void Main(string[] args) {
-    // Your code goes here
+    // Your code goes here 
     string passengerName = "Zara";
     int passengerAge = 28;
     string ticketType = "First Class";
